@@ -1,0 +1,16 @@
+Explicación del programa:
+Declaración del array:
+
+El array estudiantes almacena tuplas que contienen el nombre del estudiante y su calificación.
+Mostrar los datos:
+
+Se utiliza un ciclo foreach para recorrer el array e imprimir los nombres y las calificaciones de los estudiantes.
+Cálculo del promedio:
+
+Se suman todas las calificaciones y se dividen entre la cantidad de estudiantes para obtener el promedio.
+Mejor calificación:
+
+El programa busca al estudiante con la calificación más alta comparando cada entrada del array.
+Cómo funciona la estructura de datos:
+Arrays: Se utiliza un array para almacenar los datos, lo que permite acceder a cada elemento por su índice. Esto facilita la organización de los nombres y las calificaciones de manera estructurada.
+Tuplas: Las tuplas permiten almacenar múltiples datos en un solo elemento del array, haciendo que sea más fácil agrupar el nombre y la calificación de cada estudiante.
